@@ -17,12 +17,12 @@
 4. Выбрать эмулятор или подключить телефон с режимом разработчика
 
 ## Скриншоты
-1. Loading screen
-2. List of countries
-3. Country details  
-4. Favourites screen
-5. Search
-6. Error screen
+1. Loading screen (https://github.com/Maria-Zin/CountryExplorer/blob/main/load.jpg)
+2. List of countries (https://github.com/Maria-Zin/CountryExplorer/blob/main/list.jpg)
+3. Country details (https://github.com/Maria-Zin/CountryExplorer/blob/main/coun.jpg)
+4. Favourites screen (https://github.com/Maria-Zin/CountryExplorer/blob/main/fav.jpg)
+5. Search (https://github.com/Maria-Zin/CountryExplorer/blob/main/sear.jpg)
+6. Error screen (https://github.com/Maria-Zin/CountryExplorer/blob/main/search.jpg)
 
 ## Чеклист выполненных требований
 

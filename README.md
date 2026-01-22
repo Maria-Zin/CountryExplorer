@@ -19,10 +19,10 @@
 ## Скриншоты
 1. ![Loading screen](https://github.com/Maria-Zin/CountryExplorer/blob/main/load.jpg)
 2. ![List of countries](https://github.com/Maria-Zin/CountryExplorer/blob/main/list.jpg)
-3. ![Country details](https://github.com/Maria-Zin/CountryExplorer/blob/main/coun.jpg)
+3. ![Country details](https://github.com/Maria-Zin/CountryExplorer/blob/main/det.jpg)
 4. ![Favourites screen](https://github.com/Maria-Zin/CountryExplorer/blob/main/fav.jpg)
 5. ![Search](https://github.com/Maria-Zin/CountryExplorer/blob/main/sear.jpg)
-6. ![Error screen](https://github.com/Maria-Zin/CountryExplorer/blob/main/search.jpg)
+6. ![Error screen](https://github.com/Maria-Zin/CountryExplorer/blob/main/error.jpg)
 
 ## Чеклист выполненных требований
 
